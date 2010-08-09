@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Shutdown
+Name[zh_TW]=關機
+Comment=Shutdown or Reboot
+Icon=system-shutdown-panel
+Exec=tuquito-lxde-logout
+NoDisplay=true
+

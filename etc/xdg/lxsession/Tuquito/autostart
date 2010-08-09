@@ -1,0 +1,11 @@
+@/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+@lxpanel --profile Tuquito
+@xscreensaver -no-splash
+@nm-applet
+@pcmanfm --desktop
+@bluetooth-applet
+@sh -c 'test -e /var/cache/jockey/check || exec jockey-gtk --check'
+@gnome-power-manager
+@system-config-printer-applet
+@tuquito-bienvenida
+

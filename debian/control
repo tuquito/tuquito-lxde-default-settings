@@ -1,0 +1,14 @@
+Source: tuquito-lxde-default-settings
+Section: admin
+Priority: required
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 5.0.0)
+Standards-Version: 3.8.4
+
+Package: tuquito-lxde-default-settings
+Depends: pcmanfm2, lxpanel
+Architecture: all
+Description: Default system settings for Tuquito LXDE Edition.
+ This Package contains the default system settings for Tuquito LXDE Edition.
+ * Tuquito Team! - 2010
+

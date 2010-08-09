@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=md5
+NoDisplay=true
+Exec=tuquito-md5
+Icon=info
+Terminal=false
+Categories=none
+

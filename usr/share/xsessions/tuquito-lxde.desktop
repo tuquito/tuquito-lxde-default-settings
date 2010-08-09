@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Tuquito LXDE
+Comment=Lightweight X11 Desktop Environment
+Exec=/usr/bin/starttuquitolxde
+Terminal=false
+TryExec=/usr/bin/starttuquitolxde
+Type=Application
+
+[Window Manager]
+SessionManaged=true
+
