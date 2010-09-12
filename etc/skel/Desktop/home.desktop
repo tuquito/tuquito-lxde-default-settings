@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Icon=folder_home
+Name=Personal folder
+Name[es]=Carpeta Personal
+Exec=pcmanfm ~
