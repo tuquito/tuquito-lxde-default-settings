@@ -1,2 +1,2 @@
-cat #!/bin/sh
+#!/bin/sh
 lxsession-logout --banner "/usr/share/tuquito-lxde/images/logout-banner.png" --side=top
