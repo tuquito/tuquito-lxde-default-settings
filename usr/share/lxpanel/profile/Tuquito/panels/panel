@@ -21,13 +21,6 @@ Global {
 }
 
 Plugin {
-    type = space
-    Config {
-        Size=4
-    }
-}
-
-Plugin {
     type = menu
     Config {
         image=/usr/share/tuquito-lxde/images/tuquitomenu.png
@@ -61,7 +54,16 @@ Plugin {
 Plugin {
     type = space
     Config {
-        Size=4
+        Size=6
+    }
+}
+
+Plugin {
+    type = launchbar
+    Config {
+        Button {
+            id=/usr/share/applications/chromium-browser.desktop
+        }
     }
 }
 
@@ -106,18 +108,18 @@ Plugin {
 }
 
 Plugin {
-    type = volumealsa
+    type = tray
 }
 
 Plugin {
     type = space
     Config {
-        Size=6
+        Size=4
     }
 }
 
 Plugin {
-    type = tray
+    type = volumealsa
 }
 
 Plugin {
@@ -130,17 +132,10 @@ Plugin {
 Plugin {
     type = dclock
     Config {
-        ClockFmt=%X  %d %b %Y
+        ClockFmt=%H:%M
         TooltipFmt=%A %x
         BoldFont=0
         IconOnly=0
-    }
-}
-
-Plugin {
-    type = space
-    Config {
-        Size=6
     }
 }
 
