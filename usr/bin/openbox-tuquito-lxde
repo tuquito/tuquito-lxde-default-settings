@@ -1,3 +1,2 @@
 #!/bin/sh
 exec openbox --config-file $XDG_CONFIG_HOME/openbox/tuquito-lxde-rc.xml $@
-

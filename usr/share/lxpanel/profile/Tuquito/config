@@ -2,4 +2,3 @@
 FileManager=pcmanfm %s
 Terminal=lxterminal -e
 Logout=tuquito-lxde-logout
-

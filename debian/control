@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 5.0.0)
 Standards-Version: 3.8.4
 
 Package: tuquito-lxde-default-settings
-Depends: pcmanfm2, lxpanel
+Depends: pcmanfm2|pcmanfm, lxpanel
 Architecture: all
 Description: Default system settings for Tuquito LXDE Edition.
  This Package contains the default system settings for Tuquito LXDE Edition.
