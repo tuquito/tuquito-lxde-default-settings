@@ -1,3 +1,9 @@
+tuquito-lxde-default-settings (4.1-6) maverick; urgency=low
+
+ * new wallpaper
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 14 Sep 2010 20:27:57 -0300
+
 tuquito-lxde-default-settings (4.1-5.1) maverick; urgency=low
 
   * tuquito-md5 deleted for conflict with tuquito-system
