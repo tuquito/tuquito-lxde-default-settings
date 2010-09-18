@@ -4,4 +4,4 @@ Type=Application
 Icon=computer
 Name=Computer
 Name[es]=Equipo
-Exec=computer:///
+Exec=pcmanfm computer:///
