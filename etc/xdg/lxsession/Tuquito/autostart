@@ -6,9 +6,6 @@
 @bluetooth-applet
 @setxkbmap -option terminate:ctrl_alt_bksp
 @sh -c 'test -e /var/cache/jockey/check || exec jockey-gtk --check'
-@/usr/lib/tuquito/tuquito-update/update-manager.py
 @xdg-user-dirs-gtk-update
 @gnome-power-manager
 @system-config-printer-applet
-@tuquito-bienvenida-launcher
-
