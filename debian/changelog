@@ -1,3 +1,9 @@
+tuquito-lxde-default-settings (4.1-8) maverick; urgency=low
+
+  * autostart modified
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 21 Sep 2010 14:32:55 -0300
+
 tuquito-lxde-default-settings (4.1-7) maverick; urgency=low
 
   * computer icon fixed
