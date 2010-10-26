@@ -17,7 +17,7 @@ export XDG_CONFIG_DIRS
 if test "x$XDG_DATA_DIRS" = "x"
 then
  XDG_DATA_DIRS="/etc/xdg/tuquito-lxde:/usr/local/share:/usr/share:/usr/share"
- else
+else
  XDG_DATA_DIRS="/etc/xdg/tuquito-lxde:$XDG_DATA_DIRS:/usr/share"
 fi
 export XDG_DATA_DIRS
@@ -54,4 +54,3 @@ fi
 
 # Start the LXDE session
 exec /usr/bin/lxsession -s Tuquito -e LXDE
-

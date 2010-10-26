@@ -4,4 +4,5 @@ Type=Application
 Icon=computer
 Name=Computer
 Name[es]=Equipo
+Name[pt_BR]=Computador
 Exec=pcmanfm computer:///
