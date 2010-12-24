@@ -6,7 +6,7 @@
 @bluetooth-applet
 @setxkbmap -option terminate:ctrl_alt_bksp
 @sh -c 'test -e /var/cache/jockey/check || exec jockey-gtk --check'
-@xdg-user-dirs-update
+@xdg-user-dirs-update --force
 @gnome-power-manager
 @system-config-printer-applet
 @tilda
